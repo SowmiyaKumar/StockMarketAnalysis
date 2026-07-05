@@ -159,10 +159,3 @@ This highlights the importance of **ethical model assessment beyond accuracy met
 
 ---
 
-## 📜 License & Academic Use
-
-This project was completed as part of coursework at **RMIT University**.
-
-* Datasets and specifications are provided for **educational purposes only**
-* Code and analysis are shared **for learning, demonstration, and portfolio use**
-* Not intended for commercial or production deployment
